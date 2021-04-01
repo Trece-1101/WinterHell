@@ -7,8 +7,13 @@ Debes controlar al profesor Ian White adentradote en las profundidades de la man
 ***Engine:*** Unreal v4.23
 
 ***Lenguaje:*** Blueprints / C++
+
+***Plataforma:*** PC
+
+***Genero:*** Terror - Walking Simulator
+***
+### ***Preview***
+[![Gameplay WinterHell](https://img.youtube.com/vi//0.jpg)]()
 ***
 ### ***Imagenes***
-***
-### ***Gameplay***
-[![Gameplay WinterHell](https://img.youtube.com/vi//0.jpg)]()
+
