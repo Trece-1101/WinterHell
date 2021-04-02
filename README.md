@@ -1,4 +1,5 @@
 # WinterHell
+![miniatura Winterhell 2](https://user-images.githubusercontent.com/22348284/113366249-06b1e580-932f-11eb-8039-261d741c3d47.jpg)
 ***
 WinterHell es un juego de terror/horror psicológico en primera persona donde se invaden los sentidos del jugador para tratar de llevarlo a una situación de ansiedad y miedo.
 Miedo, oscuridad y ausencia de control.
