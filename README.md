@@ -13,7 +13,7 @@ Debes controlar al profesor Ian White adentradote en las profundidades de la man
 ***Genero:*** Terror - Walking Simulator
 ***
 ### ***Preview***
-[![Gameplay WinterHell](https://img.youtube.com/vi//0.jpg)]()
+[![Gameplay WinterHell](https://img.youtube.com/vi/5-7XrrJNvaI/0.jpg)](https://www.youtube.com/watch?v=5-7XrrJNvaI)
 ***
 ### ***Imagenes***
 
